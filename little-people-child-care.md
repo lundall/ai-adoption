@@ -11,7 +11,7 @@ To address these challenges, Little People decided to adopt artificial intellige
 Little People is modeling their enterprise architecture to plan their AI adoption process. This includes the following aspects of their enterprise architecture:
 
 - **Business processes**: Little People is modeling their business processes, such as the process for enrolling children, the process for providing care and education, and the process for communicating with parents.
-Applications: Little People is modeling their applications, such as the child management system, the parent portal, and the learning management system.
+- **Applications**: Little People is modeling their applications, such as the child management system, the parent portal, and the learning management system.
 - **Data**: Little People is modeling their data, such as the data about children, the data about parents, and the data about the organization's operations.
 - **Technology**: Little People is modeling their technology infrastructure, such as the servers, storage devices, and network.
 Little People is using this model to identify the different AI capabilities that they need to develop or adopt, and to map those capabilities to their business goals and objectives. 
