@@ -95,6 +95,7 @@ These business objectives and requirements provide a clear and concise statement
 
 <details>
 <summary><b>Target Description:</b></br>This section describes the future state of Little People’s enterprise architecture, using ArchiMate diagrams to model how it wants to improve or change its business processes, information systems, and technology infrastructure with AI. It also uses ArchiMate viewpoints to show how the future state will address the stakeholder concerns and meet the business objectives and requirements.</summary>
+
 ## 4. Target Description
 ### 4.1. Business architecture
 ### 4.2. Information systems architecture
@@ -102,46 +103,26 @@ These business objectives and requirements provide a clear and concise statement
 ### 4.4. Application architecture
 ### 4.5. Technology architecture
 </details>
+
 <details>
 <summary><b>Gap Analysis:</b></br>This section analyzes the gap between Little People’s current state and future state of its enterprise architecture, using ArchiMate diagrams to identify</summary>
+
 ## 5. Gap Analysis
 ### 5.1. Differences between baseline and target architectures
 ### 5.2. Dependencies, risks, and opportunities
 </details>
 <details>
 <summary><b>Roadmap:</b></br></summary>
+
 ## 6. Roadmap
 ### 6.1. Implementation plan
 ### 6.2. Timeline and milestones
 </details>
+
 <details>
 <summary><b>Conclusion:</b></br></summary>
+
 7. ## Conclusion
 - ### Summary of key points
 - ### Next steps
-<details>
-
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-<summary>Tips for collapsed sections</summary>
-
-### You can add a header
-
-You can add text within a collapsed section. 
-
-You can add an image or a code block, too.
-
-```ruby
-   puts "Hello World"
-```
-
 </details>
