@@ -64,13 +64,8 @@ flowchart LR;
 ```
 
 **Daigram 2: Little People Value Chain**
-```{toggle} Click the button to reveal!
-:show:
-Valud Chain
 
 ![ValueChain](../img/value-chain.png)
-```
-
 
 **Diagram 1** value chain diagram shows how Little People Child Care creates value by performing a series of interconnected activities that transform inputs into valuable outputs. It also shows how each function contributes to the overall value of the organization’s services.
 
