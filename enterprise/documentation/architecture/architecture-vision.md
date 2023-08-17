@@ -64,7 +64,13 @@ flowchart LR;
 ```
 
 **Daigram 2: Little People Value Chain**
+```{toggle} Click the button to reveal!
+:show:
+Valud Chain
+
 ![ValueChain](../img/value-chain.png)
+```
+
 
 **Diagram 1** value chain diagram shows how Little People Child Care creates value by performing a series of interconnected activities that transform inputs into valuable outputs. It also shows how each function contributes to the overall value of the organization’s services.
 
@@ -123,6 +129,8 @@ The following table provides a brief description of each business process shown 
 | Communicate with Parents   | This process involves communicating with the parents of the enrolled children, providing them with real-time updates on their child’s progress and activities, sending them personalized notifications and recommendations, and soliciting their feedback and suggestions.             |
 | Manage Operations          | This process involves managing the daily operations of Little People’s organization, such as scheduling, billing, inventory management, staff training, and quality assurance. The process also involves monitoring and reporting on the performance and outcomes of the organization. |
 
+Please reference document [Business Architecture](./business-architectrue.md)
+
 ### 3.2. Information systems architecture
 The Information Systems Architecture subsection describes the current state of Little People’s information systems architecture, including its information systems, applications, and services. The information systems architecture provides a view of how Little People supports its business processes and capabilities with information technology.
 
@@ -157,10 +165,18 @@ The following table provides a brief description of each application component, 
 | Communication Service | This is a service that handles the communication between Little People’s staff and parents. It sends real-time updates on the children’s progress and activities via email or SMS, provides chatbots for answering questions or providing guidance via text or voice, and facilitates video calls or conferences via web or mobile devices. |
 | Ordering Service      | This is a service that handles the ordering of inventory items for Little People. It uses AI technologies to predict the demand for each item based on historical data and current trends, and optimizes the order quantities and frequencies based on inventory levels and supplier availability.                                          |
 
+Please reference document [Information Systems Architecture](./information-systems-architecture.md)
+
 ### 3.3. Data architecture
 The Data Architecture subsection describes the current state of Little People’s data architecture, including its data entities, data relationships, and data flows. The data architecture provides a view of how Little People manages and uses its data to support its information systems and business processes.
 
+Please reference document [Information Systems Architecture](./information-systems-architecture.md#3-data-architectrue)
+
 The following diagram shows an example of a Data Model Viewpoint for Little People, using ArchiMate notation. This viewpoint focuses on the main data entities that Little People stores and processes, such as Child, Parent, Staff, Class, Curriculum, Assessment, etc. The diagram shows the attributes and keys of each data entity, as well as the relationships and cardinalities between them.
+
+#### 4.3.1 Data Model
+
+![ValueChain](../img/sms-data-model.png)
 
 **Data Model Viewpoint for Little People**
 
@@ -198,10 +214,6 @@ The following table provides a brief description of each business process shown 
 | Provide Parental Support           | This process involves providing parental support to the parents of the enrolled children, such as tips, advice, resources, and referrals. AI can help automate this process by using natural language processing and chatbots to provide personalized and interactive support to the parents, and to connect them with the appropriate staff or services.  |
 ### 4.2. Information systems architecture
 ### 4.3. Data architecture
-
-#### 4.3.1 Data Model
-
-![ValueChain](../img/sms-data-model.png)
 
 | Dimensions/Facts           | Date | Student | Guardian | Staff | Class | Curriculum | Subject | Description                                                                                                                    |
 | -------------------------- | ---- | ------- | -------- | ----- | ----- | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------------------ |
